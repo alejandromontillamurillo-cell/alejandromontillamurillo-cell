@@ -2,9 +2,9 @@
 
 ![Alejandro Montilla Murillo — Public sector, administration and technology](./assets/github-banner.png)
 
-## Student Intern at the Provincial Council of Seville | Public Sector | Management & Administration
+## DAW Student | Student Intern at the Provincial Council of Seville | Web Development
 
-Estudiante de **Administración y Gestión** y becario en la **Diputación Provincial de Sevilla**. Me interesa combinar la organización administrativa, la gestión documental y la tecnología para trabajar de forma clara, eficiente y responsable.
+Estudiante de **Desarrollo de Aplicaciones Web (DAW)** y becario en la **Diputación Provincial de Sevilla**. Me interesa desarrollar soluciones web claras y funcionales, combinando programación, organización de la información y buenas prácticas.
 
 Actualmente estoy **abierto a nuevas oportunidades** presenciales o híbridas en **Mairena del Aljarafe y alrededores**.
 
@@ -20,9 +20,9 @@ Actualmente estoy **abierto a nuevas oportunidades** presenciales o híbridas en
 ### Formación
 
 **IES Alixar**  
-*Grado medio · 2024 – 2026*
+*Estudios actuales: Desarrollo de Aplicaciones Web (DAW)*
 
-Formación en desarrollo de habilidades profesionales y trabajo práctico, con especial atención a la administración, la organización y la gestión de documentos.
+Formación práctica en programación, desarrollo web, estructuración de información y creación de aplicaciones.
 
 ### Competencias
 
@@ -30,6 +30,7 @@ Formación en desarrollo de habilidades profesionales y trabajo práctico, con e
 - Organización de documentos.
 - Trabajo en equipo.
 - Microsoft Office.
+- Desarrollo web y programación.
 - Java, HTML y XML mediante proyectos prácticos.
 
 ### Proyectos destacados

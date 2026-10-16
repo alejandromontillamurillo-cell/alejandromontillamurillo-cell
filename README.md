@@ -1,13 +1,15 @@
 # Alejandro Montilla Murillo
 
-## Administración y gestión · Sector público · Tecnología
+## Student Intern at the Provincial Council of Seville | Public Sector | Management & Administration
 
-Estudiante de **Administración y Gestión** con experiencia de prácticas en la **Diputación Provincial de Sevilla**. Me interesa combinar la organización administrativa, la gestión documental y la tecnología para trabajar de forma clara, eficiente y responsable.
+Estudiante de **Administración y Gestión** y becario en la **Diputación Provincial de Sevilla**. Me interesa combinar la organización administrativa, la gestión documental y la tecnología para trabajar de forma clara, eficiente y responsable.
+
+Actualmente estoy **abierto a nuevas oportunidades** presenciales o híbridas en **Mairena del Aljarafe y alrededores**.
 
 ### Experiencia
 
 **SMR — Diputación Provincial de Sevilla**  
-*Prácticas · Febrero de 2026 – actualidad · Sevilla*
+*Prácticas · Febrero de 2026 – actualidad · Sevilla, Andalucía*
 
 - Apoyo en la gestión diaria y el procesamiento de expedientes administrativos.
 - Colaboración en tareas de asistencia y soporte a entidades locales de la provincia.

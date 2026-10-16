@@ -1,21 +1,38 @@
 # Alejandro Montilla Murillo
 
-## Desarrollo de software · Java · HTML · XML
+## Administración y gestión · Sector público · Tecnología
 
-Construyo proyectos prácticos mientras sigo desarrollando mis habilidades en programación y desarrollo web.
+Estudiante de **Administración y Gestión** con experiencia de prácticas en la **Diputación Provincial de Sevilla**. Me interesa combinar la organización administrativa, la gestión documental y la tecnología para trabajar de forma clara, eficiente y responsable.
 
-### Enfoque actual
+### Experiencia
 
-- Desarrollo de aplicaciones y ejercicios prácticos con **Java**.
-- Creación de páginas y proyectos web con **HTML**.
-- Organización y trabajo con estructuras de datos **XML**.
-- Mejora continua de buenas prácticas, claridad del código y documentación.
+**SMR — Diputación Provincial de Sevilla**  
+*Prácticas · Febrero de 2026 – actualidad · Sevilla*
 
-### Proyectos destacados
+- Apoyo en la gestión diaria y el procesamiento de expedientes administrativos.
+- Colaboración en tareas de asistencia y soporte a entidades locales de la provincia.
+- Organización y control de documentación administrativa.
 
-- [java-proyectos](https://github.com/alejandromontillamurillo-cell/java-proyectos) — Proyectos prácticos desarrollados con Java.
+### Formación
+
+**IES Alixar**  
+*Grado medio · 2024 – 2026*
+
+Formación en desarrollo de habilidades profesionales y trabajo práctico, con especial atención a la administración, la organización y la gestión de documentos.
+
+### Competencias
+
+- Gestión y organización de archivos.
+- Organización de documentos.
+- Trabajo en equipo.
+- Microsoft Office.
+- Java, HTML y XML mediante proyectos prácticos.
+
+### Proyectos
+
+- [java-proyectos](https://github.com/alejandromontillamurillo-cell/java-proyectos) — Proyectos prácticos y ejercicios desarrollados con Java.
 - [html-proyectos](https://github.com/alejandromontillamurillo-cell/html-proyectos) — Proyectos y prácticas de desarrollo web con HTML.
-- [xml-proyectos](https://github.com/alejandromontillamurillo-cell/xml-proyectos) — Proyectos y tareas centrados en XML.
+- [xml-proyectos](https://github.com/alejandromontillamurillo-cell/xml-proyectos) — Proyectos y tareas prácticas centrados en XML.
 
 ### Contacto
 

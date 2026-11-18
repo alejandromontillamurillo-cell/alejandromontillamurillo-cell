@@ -1,51 +1,61 @@
 # Alejandro Montilla Murillo
 
-![Alejandro Montilla Murillo — Public sector, administration and technology](./assets/github-banner.png)
+![Alejandro Montilla Murillo — Administración pública, desarrollo web y tecnología](./assets/github-banner.png)
 
-## DAW Student | Student Intern at the Provincial Council of Seville | Web Development
+### Estudiante de Desarrollo de Aplicaciones Web (DAW) | Java · HTML · XML
 
-Estudiante de **Desarrollo de Aplicaciones Web (DAW)** y becario en la **Diputación Provincial de Sevilla**. Me interesa desarrollar soluciones web claras y funcionales, combinando programación, organización de la información y buenas prácticas.
+Estudiante de **Desarrollo de Aplicaciones Web (DAW) en IES Alixar** y actualmente en prácticas en la **Diputación Provincial de Sevilla**. Me interesa crear soluciones digitales claras y útiles, aprender buenas prácticas de desarrollo y aportar también mi experiencia en organización y gestión documental.
 
-Actualmente estoy **abierto a nuevas oportunidades** presenciales o híbridas en **Mairena del Aljarafe y alrededores**.
+**Abierto a oportunidades junior y prácticas** presenciales o híbridas en **Mairena del Aljarafe, Sevilla y alrededores**.
 
-### Experiencia
+---
 
-**SMR — Diputación Provincial de Sevilla**  
-*Prácticas · Febrero de 2026 – actualidad · Sevilla, Andalucía*
+## Perfil
 
-- Apoyo en la gestión diaria y el procesamiento de expedientes administrativos.
-- Colaboración en tareas de asistencia y soporte a entidades locales de la provincia.
-- Organización y control de documentación administrativa.
+- Formación actual en desarrollo de aplicaciones web.
+- Prácticas en el ámbito de la administración pública, con apoyo en la gestión y procesamiento de expedientes, asistencia a entidades locales y organización documental.
+- Proyectos formativos y personales con **Java**, **HTML5** y **XML**.
+- Experiencia práctica organizando ejercicios, recursos y entregas con GitHub; también encontrarás una aplicación visual desarrollada con **React, TypeScript y Vite**.
+- Interés por seguir creciendo en desarrollo web y programación, con atención al detalle, organización y trabajo en equipo.
 
-### Formación
+## Tecnologías y herramientas
 
-**IES Alixar**  
-*Estudios actuales: Desarrollo de Aplicaciones Web (DAW)*
+| Área | Tecnologías / práctica |
+|---|---|
+| Programación | Java: ejercicios, lógica, métodos, excepciones y aplicaciones de consola |
+| Desarrollo web | HTML5 y maquetación de páginas y ejercicios |
+| Datos y marcado | XML y estructuración de documentos |
+| Frontend | React, TypeScript y Vite en un proyecto de showcase |
+| Herramientas | Git, GitHub, Eclipse y Microsoft Office |
 
-Formación práctica en programación, desarrollo web, estructuración de información y creación de aplicaciones.
+> La experiencia indicada refleja proyectos de aprendizaje y prácticas formativas; no se atribuyen certificaciones ni años profesionales no publicados.
 
-### Competencias
+## Proyectos destacados
 
-- Gestión y organización de archivos.
-- Organización de documentos.
-- Trabajo en equipo.
-- Microsoft Office.
-- Desarrollo web y programación.
-- Java, HTML y XML mediante proyectos prácticos.
+### Java
+- [**Gestor de gastos por consola**](https://github.com/alejandromontillamurillo-cell/proyecto-emprendedores-java) *(repositorio privado)* — aplicación de consola para registrar gastos, validarlos, listarlos y calcular totales. Usa `BigDecimal`, `LocalDate` y colecciones; los datos se conservan durante la sesión.
+- [**Conversor de temperaturas**](https://github.com/alejandromontillamurillo-cell/ConversorTemperaturas) — conversión entre Celsius y Fahrenheit con métodos Java.
+- [**Prácticas Java**](https://github.com/alejandromontillamurillo-cell/java-proyectos) — colección de ejercicios y prácticas de programación.
+- [**Prácticas de programación**](https://github.com/alejandromontillamurillo-cell/Programacion-) — ejemplos de consola, excepciones y lógica en Java.
 
-### Proyectos destacados
+### Web y marcado
+- [**Proyectos HTML**](https://github.com/alejandromontillamurillo-cell/html-proyectos) — actividades y páginas prácticas con HTML.
+- [**Proyectos XML**](https://github.com/alejandromontillamurillo-cell/xml-proyectos) — ejercicios de estructura y organización de documentos XML.
+- [**Showcase de interfaces**](https://github.com/alejandromontillamurillo-cell/mi-proyecto-prueba) — colección visual de 15 conceptos de interfaz; React, TypeScript y Vite.
 
-#### Desarrollo y programación
+### Herramientas de desarrollo
+- [**Práctica Git y Eclipse**](https://github.com/alejandromontillamurillo-cell/PracticaGitEclipsee) — proyecto Java de práctica con Eclipse y flujo de trabajo con GitHub.
 
-- **[java-proyectos](https://github.com/alejandromontillamurillo-cell/java-proyectos)** — Proyectos prácticos y ejercicios desarrollados con Java.
-- **[html-proyectos](https://github.com/alejandromontillamurillo-cell/html-proyectos)** — Proyectos y prácticas de desarrollo web con HTML.
+## Formación y experiencia
 
-#### Datos y documentación
+**IES Alixar — Desarrollo de Aplicaciones Web (DAW)**  
+Estudios actuales, con práctica en programación, desarrollo web y estructuración de información.
 
-- **[xml-proyectos](https://github.com/alejandromontillamurillo-cell/xml-proyectos)** — Proyectos y tareas prácticas centrados en XML.
+**Diputación Provincial de Sevilla — prácticas**  
+Sevilla, Andalucía · febrero de 2026–actualidad  
+Apoyo en procesamiento de expedientes, asistencia a entidades locales y organización de documentación administrativa.
 
-> También puedes encontrarme disponible para nuevas oportunidades presenciales o híbridas en Mairena del Aljarafe y alrededores.
-
-### Contacto
+## Contacto
 
 - [LinkedIn](https://www.linkedin.com/in/alejandro-montilla-murillo-9b314a3b3/)
+- Ubicación de búsqueda: Mairena del Aljarafe y área de Sevilla.
